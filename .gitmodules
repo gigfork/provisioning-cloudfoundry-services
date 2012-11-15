@@ -1,0 +1,6 @@
+[submodule "vcap-services-base"]
+	path = vcap-services-base
+	url = git://github.com/cloudfoundry/vcap-services-base.git
+[submodule "vcap-services"]
+	path = vcap-services
+	url = git://github.com/cloudfoundry/vcap-services.git
